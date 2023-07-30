@@ -373,7 +373,7 @@ echo "$username $sshlimiter" >>/root/usuarios.db
     echo -e "\033[1;32mhttp://$IP:8888/server/online"
     echo ""
     echo -e "\033[1;37m◈─────────────────────────────────◈"
-    echo -e "\033[1;37m©️ 🐉  DRAGON VPS MANAGER SCRIPT  🐉"
+    echo -e "\033[1;37m©️ 🐉  🔰zero panel🔰 SCRIPT  🐉"
     echo -e "\033[1;37m◈─────────────────────────────────◈"
 		sleep 1
 		function aguarde() {
@@ -444,7 +444,7 @@ echo "$username $sshlimiter" >>/root/usuarios.db
     echo -e "\033[1;32mhttp://$IP:8888/server/online"
     echo ""
     echo -e "\033[1;37m◈─────────────────────────────────◈"
-    echo -e "\033[1;37m©️ 🐉  DRAGON VPS MANAGER SCRIPT  🐉"
+    echo -e "\033[1;37m©️ 🐉  🔰zero panel🔰 SCRIPT  🐉"
     echo -e "\033[1;37m◈─────────────────────────────────◈"
 	}
 } || {
@@ -484,6 +484,6 @@ echo "$username $sshlimiter" >>/root/usuarios.db
     echo -e "\033[1;32mhttp://$IP:8888/server/online"
     echo ""
     echo -e "\033[1;37m◈─────────────────────────────────◈"
-    echo -e "\033[1;37m©️ 🐉  DRAGON VPS MANAGER SCRIPT  🐉"
+    echo -e "\033[1;37m©️ 🐉  🔰zero panel🔰 SCRIPT  🐉"
     echo -e "\033[1;37m◈─────────────────────────────────◈"
 }
