@@ -1124,7 +1124,7 @@ SCOLOR='\033[0m'
 						fun_openvpn
 					elif [[ "$resp" = '3' ]]; then
 						echo -e "\n\033[1;32mCHANGING FILE \033[1;37m/etc/hosts\033[0m"
-						echo -e "\n\033[1;31mATTENTION!\033[0m"
+						echo -e "\n\033[1;31mtavagoh!\033[0m"
 						echo -e "\n\033[1;33mTO SAVE USE KEYS \033[1;32mctrl x y\033[0m"
 						sleep 4
 						clear
